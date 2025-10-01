@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "civic",
+        "descricao": "g10",
+        "preco":  90.000,
+        "imagem": "../imagens/civic.webp"
+
+    },  
+    {
+        "id": 2,
+        "nome": "gol",
+        "descricao": "gti",
+        "preco": 430.000,
+        "imagem": "../imagens/gol.webp"
+
+    },
+    {
+         "id": 3,
+         "nome": "fusca",
+        "descricao": "itamar",
+        "preco": 35.000,
+        "imagem": "../imagens/fusca.webp"
+    },
+    { 
+        "id": 4,
+        "nome": "opala",
+        "descricao": "diplomata",
+        "preco": 120.000,
+        "imagem": "../imagens/opala.webp"
+    },
+    {
+        "id": 5,
+        "nome": "chevette",
+        "descricao": "tubarão",
+        "preco": 28.500,
+        "imagem": "../imagens/chevette.webp"
+    },
+    {
+        "id": 6,
+        "nome": "maverick",
+        "descricao": "gt",
+        "preco": 280.000,
+        "imagem": "../imagens/maverick.webp"
+     },
+    {
+        "id": 7,
+        "nome": "kombi",
+        "descricao": "corujinha",
+        "preco": 65.000,
+        "imagem": "../imagens/kombi.webp"
+    },
+    {
+        "id": 8,
+        "nome": "saveiro",
+        "descricao": "summer",
+        "preco": 48.000,
+        "imagem": "../imagens/saveiro.webp"
+    },
+    {
+        "id": 9,
+        "nome": "uno",
+        "descricao": "turbo",
+        "preco": 75.000,
+        "imagem": "../imagens/uno.webp"
+    },
+    {
+        "id": 10,
+        "nome": "escort",
+        "descricao": "xr3",
+        "preco": 55.000,
+        "imagem": "../imagens/escort.webp"
+    }
+]
