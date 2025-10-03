@@ -1,74 +1,122 @@
 [
     {
         "id": 1,
-        "nome": "civic",
-        "descricao": "g10",
-        "preco":  90.000,
-        "imagem": "../imagens/civic.webp"
-
-    },  
+        "nome_funcionario": "Ricardo Silva",
+        "cargo": "Gerente de Vendas",
+        "descricao": "Líder focado em resultados, inspira a equipe a atingir metas.",
+        "salario": 15500.00,
+        "imagem": "../imagens/foto_ricardo.webp"
+    }, 
     {
         "id": 2,
-        "nome": "gol",
-        "descricao": "gti",
-        "preco": 430.000,
-        "imagem": "../imagens/gol.webp"
-
+        "nome_funcionario": "Juliana Costa",
+        "cargo": "Consultora de Vendas Sênior",
+        "descricao": "Carismática, com alta capacidade de fidelização de clientes e negociação.",
+        "salario": 9800.00,
+        "imagem": "../imagens/foto_juliana.webp"
     },
     {
-         "id": 3,
-         "nome": "fusca",
-        "descricao": "itamar",
-        "preco": 35.000,
-        "imagem": "../imagens/fusca.webp"
+        "id": 3,
+        "nome_funcionario": "Marcos Mendes",
+        "cargo": "Vendedor Júnior",
+        "descricao": "Entusiasmado, demonstra grande proatividade e rápida absorção de conhecimento.",
+        "salario": 4100.00,
+        "imagem": "../imagens/foto_marcos.webp"
     },
     { 
         "id": 4,
-        "nome": "opala",
-        "descricao": "diplomata",
-        "preco": 120.000,
-        "imagem": "../imagens/opala.webp"
+        "nome_funcionario": "Patrícia Oliveira",
+        "cargo": "Gerente de Pós-Venda",
+        "descricao": "Organizada e empática, garante a satisfação do cliente após a compra do veículo.",
+        "salario": 12500.00,
+        "imagem": "../imagens/foto_patricia.webp"
     },
     {
         "id": 5,
-        "nome": "chevette",
-        "descricao": "tubarão",
-        "preco": 28.500,
-        "imagem": "../imagens/chevette.webp"
+        "nome_funcionario": "Fábio Santos",
+        "cargo": "Mecânico Chefe",
+        "descricao": "Extremamente técnico e experiente, especialista em diagnósticos complexos.",
+        "salario": 8700.00,
+        "imagem": "../imagens/foto_fabio.webp"
     },
     {
         "id": 6,
-        "nome": "maverick",
-        "descricao": "gt",
-        "preco": 280.000,
-        "imagem": "../imagens/maverick.webp"
-     },
+        "nome_funcionario": "Sandra Gomes",
+        "cargo": "Analista Financeira",
+        "descricao": "Detalhada e rigorosa, responsável pela saúde financeira da concessionária.",
+        "salario": 7900.00,
+        "imagem": "../imagens/foto_sandra.webp"
+    },
     {
         "id": 7,
-        "nome": "kombi",
-        "descricao": "corujinha",
-        "preco": 65.000,
-        "imagem": "../imagens/kombi.webp"
+        "nome_funcionario": "Gustavo Lima",
+        "cargo": "Avalista de Seminovos",
+        "descricao": "Possui um 'olho clínico' para identificar o valor real e a condição dos carros usados.",
+        "salario": 9200.00,
+        "imagem": "../imagens/foto_gustavo.webp"
     },
     {
         "id": 8,
-        "nome": "saveiro",
-        "descricao": "summer",
-        "preco": 48.000,
-        "imagem": "../imagens/saveiro.webp"
+        "nome_funcionario": "Helena Souza",
+        "cargo": "Recepcionista de Serviços",
+        "descricao": "Cordial e atenciosa, primeira a acolher clientes que procuram a oficina.",
+        "salario": 3500.00,
+        "imagem": "../imagens/foto_helena.webp"
     },
     {
         "id": 9,
-        "nome": "uno",
-        "descricao": "turbo",
-        "preco": 75.000,
-        "imagem": "../imagens/uno.webp"
+        "nome_funcionario": "Igor Rocha",
+        "cargo": "Consultor Técnico (Oficina)",
+        "descricao": "Comunica-se de forma transparente, explicando os reparos de maneira clara.",
+        "salario": 6800.00,
+        "imagem": "../imagens/foto_igor.webp"
     },
     {
         "id": 10,
-        "nome": "escort",
-        "descricao": "xr3",
-        "preco": 55.000,
-        "imagem": "../imagens/escort.webp"
+        "nome_funcionario": "Letícia Pereira",
+        "cargo": "Estagiária de Marketing",
+        "descricao": "Criativa, antenada com mídias sociais e campanhas de vendas online.",
+        "salario": 1900.00,
+        "imagem": "../imagens/foto_leticia.webp"
+    },
+    {
+        "id": 11,
+        "nome_funcionario": "Murilo Martins",
+        "cargo": "Detailer/Estética Automotiva",
+        "descricao": "Perfeccionista, garante que cada veículo entregue esteja impecável.",
+        "salario": 4500.00,
+        "imagem": "../imagens/foto_murilo.webp"
+    },
+    {
+        "id": 12,
+        "nome_funcionario": "Nícolas Neves",
+        "cargo": "Lavador de Veículos",
+        "descricao": "Ágil e muito cuidadoso, essencial para a apresentação final dos carros.",
+        "salario": 2800.00,
+        "imagem": "../imagens/foto_nicolas.webp"
+    },
+    {
+        "id": 13,
+        "nome_funcionario": "Olívia Pires",
+        "cargo": "Auxiliar Administrativa",
+        "descricao": "Multitarefas, eficiente e fornece suporte essencial para toda a operação.",
+        "salario": 3200.00,
+        "imagem": "../imagens/foto_olivia.webp"
+    },
+    {
+        "id": 14,
+        "nome_funcionario": "Pedro Quintas",
+        "cargo": "Vendedor de Acessórios",
+        "descricao": "Especialista em produtos extras, aumenta o valor de cada venda com aditivos.",
+        "salario": 5500.00,
+        "imagem": "../imagens/foto_pedro.webp"
+    },
+    {
+        "id": 15,
+        "nome_funcionario": "Renata Ribeiro",
+        "cargo": "Gerente Geral",
+        "descricao": "Estrategista de longo prazo, responsável por toda a operação e resultados.",
+        "salario": 22000.00,
+        "imagem": "../imagens/foto_renata.webp"
     }
 ]
